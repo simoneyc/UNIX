@@ -1,7 +1,8 @@
 # UNIX
 
-Just save my note
+:school: Just save my note - 
 
+期中範圍 []
 
-[Hackmd_link](https://hackmd.io/DFKtmqVITTuBFRusOdmHiQ)
+期末範圍 [Hackmd_link](https://hackmd.io/DFKtmqVITTuBFRusOdmHiQ)
 
